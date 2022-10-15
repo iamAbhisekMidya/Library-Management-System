@@ -15,3 +15,6 @@ Step – 1:- Just run xamp/wamp app server and start mysql.
 Step - 2:- Run Library Management System.exe
 Step - 3:- Entered the USERNAME AND PASSWORD Of the Mysql Server Then click Login [For Admin Only.]
 
+
+Note:-
+After adding members into database through admin panel, they can access the user panel by entering the username and password send by their email id in the login page. 
